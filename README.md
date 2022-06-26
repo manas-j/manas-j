@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @manas-j
 - 👀 I’m interested in Machine Learnig, Computer Vision and Data Analytics.
-- 🌱 I’m currently learning...
 - 📫 How to reach me: email-> manasj.eng@gmail.com
 
 <!---
